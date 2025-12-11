@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here's a brief introduction about myself:
 
 ## 🚀 About Me
 
-I'm a passionate programmer and problem solver, dedicated to creating innovative solutions through web development. I thoroughly enjoy turning ideas into reality by writing code and building impactful projects. My goal is to contribute to meaningful projects and collaborate with like-minded individuals to make a positive impact.
+I'm a passionate programmer and problem solver, dedicated to creating innovative solutions through development. I thoroughly enjoy turning ideas into reality by writing code and building impactful projects. My goal is to contribute to meaningful projects and collaborate with like-minded individuals to make a positive impact.
 
 ## 🔗 Connect with Me
 
